@@ -1,0 +1,5 @@
+Command 'curly' not found, did you mean:
+  command 'curl' from snap curl (7.84.0)
+  command 'kurly' from snap kurly (v1.2.1+git11.7e762cb)
+  command 'curl' from deb curl (7.81.0-1ubuntu1.4)
+See 'snap info <snapname>' for additional versions.

@@ -1,0 +1,13 @@
+
+
+
+
+
+
+china,chinese 
+england,english 
+usa,english 
+canada,english/French
+france,french 
+germany,german 
+italy,italian 
